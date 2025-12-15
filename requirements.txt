@@ -1,0 +1,2 @@
+# sin  dependencias externas
+python==3.10
